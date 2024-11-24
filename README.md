@@ -1,6 +1,8 @@
 # flappy-xp | Flappy Bird for Windows XP
 A flappy bird clone made using Windows XP.
 
+![bird](FlappyBirdXP.png)
+
 
 ## Why?
 Mostly because I was bored and wanted to mess around with Windows XP.
