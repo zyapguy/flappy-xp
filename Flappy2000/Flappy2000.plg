@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Flappy2000 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\victim\AppData\Local\Temp\RSP2290.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Flappy2000.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\victim\Downloads\flappy-xp-main\vs6\Flappy2000\Flappy2000.cpp"
+]
+Creating command line "cl.exe @C:\Users\victim\AppData\Local\Temp\RSP2290.tmp" 
+Creating temporary file "C:\Users\victim\AppData\Local\Temp\RSP22A1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Flappy2000.pdb" /debug /machine:I386 /out:"Debug/Flappy2000.exe" /pdbtype:sept 
+".\Debug\Flappy2000.obj"
+]
+Creating command line "link.exe @C:\Users\victim\AppData\Local\Temp\RSP22A1.tmp"
+<h3>Output Window</h3>
+Compiling...
+Flappy2000.cpp
+c:\users\victim\downloads\flappy-xp-main\vs6\flappy2000\flappy2000.cpp(68) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\victim\downloads\flappy-xp-main\vs6\flappy2000\flappy2000.cpp(75) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\victim\downloads\flappy-xp-main\vs6\flappy2000\flappy2000.cpp(76) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+Flappy2000.exe - 0 error(s), 3 warning(s)
+</pre>
+</body>
+</html>
